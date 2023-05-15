@@ -81,7 +81,7 @@ c:\python39
   - 一个 templates目录 （不用可删除）
   - 在settings.py中默认生成了templates的目录路径（命令行这块的 [] 中什么也没有）（不用可删除）
 
-  <img src="F:\lifeProject\first-django\notes_django\images\1.png" alt="1" style="zoom:67%;" />
+  <img src="https://github.com/ajuicefans/first-django/blob/main/notes_django/images/1.png?raw=true" alt="1" style="zoom:67%;" />
 
 ---
 
